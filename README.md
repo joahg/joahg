@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://joahg.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=joahg&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fjoahg%2Fjoahg%2F9048209%2Fneofetch.json&amp;v=4">
-      <img alt="Joah Gerstenberg's GitHub profile" src="https://neofetch-profile.vercel.app/api?username=joahg&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fjoahg%2Fjoahg%2F9048209%2Fneofetch.json&amp;v=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=joahg&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fjoahg%2Fjoahg%2F45bf97b%2Fneofetch.json&amp;v=5">
+      <img alt="Joah Gerstenberg's GitHub profile" src="https://neofetch-profile.vercel.app/api?username=joahg&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fjoahg%2Fjoahg%2F45bf97b%2Fneofetch.json&amp;v=5">
     </picture>
   </a>
 </p>
