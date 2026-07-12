@@ -8,7 +8,7 @@
       "fields": [
         { "key": "OS", "value": "macOS / iOS / Web" },
         { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Host", "value": "Square" },
+        { "key": "Host", "value": "Block" },
         { "key": "Role", "value": "Product Engineer" },
         { "key": "Tools", "value": "Amp / Xcode / VS Code" }
       ]
