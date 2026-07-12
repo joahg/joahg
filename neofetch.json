@@ -28,7 +28,7 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
+        { "key": "Email", "value": "me@joahg.com" },
         { "key": "Website", "value": "{{blog}}" },
         { "key": "GitHub", "value": "github.com/{{username}}" }
       ]
