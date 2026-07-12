@@ -1,5 +1,5 @@
 {
-  "coloredImage": true,
+  "coloredImage": false,
   "removeBackground": false,
   "imageScale": 1.2,
   "sections": [
