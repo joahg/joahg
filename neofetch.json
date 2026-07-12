@@ -10,7 +10,7 @@
         { "key": "Uptime", "value": "{{uptime}}" },
         { "key": "Host", "value": "Block" },
         { "key": "Role", "value": "AI Platform Engineer" },
-        { "key": "Tools", "value": "Amp / Xcode / VS Code" }
+        { "key": "Tools", "value": "Amp / CMUX / VS Code" }
       ]
     },
     {
