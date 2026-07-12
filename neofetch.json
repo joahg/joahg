@@ -1,0 +1,46 @@
+{
+  "coloredImage": false,
+  "removeBackground": false,
+  "imageScale": 1,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "OS", "value": "macOS, iOS, Web" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Host", "value": "Block / Square" },
+        { "key": "Kernel", "value": "Product Engineering" },
+        { "key": "IDE", "value": "Amp, VS Code, Xcode, iTerm" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages.Programming", "value": "TypeScript, JavaScript, Python, Swift, Rust" },
+        { "key": "Languages.Real", "value": "English" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "AI Agents, Developer Tools, Games" },
+        { "key": "Hobbies.Hardware", "value": "Home Automation, Audio" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "Website", "value": "{{blog}}" },
+        { "key": "GitHub", "value": "github.com/{{username}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "PRs", "value": "{{prs}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      "loc"
+    ]
+  }
+}
